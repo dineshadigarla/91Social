@@ -30,7 +30,7 @@ public class App implements CommandLineRunner
 			log.info("args[{}]: {}", i, args[i]);
         }
 		
-		bikeTask.totalPrice(args[0],args[1]);
+		bikeTask.totalPrice(args[0]);
 		
 	}
 
