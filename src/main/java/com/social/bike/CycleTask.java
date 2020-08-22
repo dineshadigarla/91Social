@@ -37,8 +37,8 @@ public class CycleTask {
 	
 
 	@SneakyThrows
-	public void totalPrice(String arg0,String arg1) {
-		String jsonString=readText(arg1);
+	public void totalPrice(String arg0) {
+		String jsonString=readText(arg0);
     	JsonNode arrayNode= mapper.readTree(jsonString);
     	setPrices();
     	log.info("Price is "+bike.calculatePrice());
