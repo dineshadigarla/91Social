@@ -1,0 +1,22 @@
+[
+	{
+	"chainAssembly":{
+		"chain":"200",
+		"gear":"2000",
+		"Pedal":"300",
+		"Spocket":"500"
+	},
+	"handleBarWithBrakes":{
+		"brakes":"200",
+		"handleBar":"300"
+	},
+	"seating":{
+		"leather":"400"
+	},
+	"wheel":{
+		"spoke":"200",
+		"tube":"300",
+		"tyre":"500"
+	}
+}
+]
