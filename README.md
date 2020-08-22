@@ -14,7 +14,7 @@ This is a Spring Boot Console Application as I have used the FactoryType like de
 [Maven](https://maven.apache.org/) (Maven for packaging and building)
 
 ## Architecture
-You can view the document related to architecture [here](https://docs.google.com/document/d/1lLsWjXzgrc3PpO1WXoGGn18WaSxyGdSRaOt8efaBW0g/edit?usp=sharing)
+You can view the documentation related to architecture [here](https://docs.google.com/document/d/1lLsWjXzgrc3PpO1WXoGGn18WaSxyGdSRaOt8efaBW0g/edit?usp=sharing)
 
 ## Steps to Setup
 
