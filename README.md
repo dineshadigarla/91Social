@@ -35,6 +35,6 @@ https://projectlombok.org/setup/eclipse
 
 ```bash
 mvn package
-java -jar target/bike-0.0.1-SNAPSHOT
+java -jar target/bike-0.0.1-SNAPSHOT <file path for which we have to find the prices>
 
 ```
